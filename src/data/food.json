@@ -1,0 +1,39 @@
+{
+    "food": [
+        {
+          "title": "Chicken Piccata",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/delishchickenpiccatavertical-1662420919.jpeg?crop=1xw:1xh;center,top&resize=980:*",
+          "description": "Chicken piccata is one of Italy's classic dishes and refers to the process of dredging the meat in flour, browning it in a skillet, and cooking it in a simple sauce of lemon juice, butter, and capers. Italians most often prepare this with veal, but we love it with chicken just the same.",
+          "rating": 0,
+          "haveTried": "no"
+        },
+        {
+          "title": "Skillet Eggplant Parm",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/skillet-eggplant-parm1-1662420737.jpeg?crop=0.39659863945578233xw:1xh;center,top&resize=980:*",
+          "description": "This dish has all the eggplant Parm flavors you love—including sliced rounds of tender eggplant, tangy marinara sauce, and plenty of cheese. Instead of breading each slice of eggplant, though, you'll top the entire skillet with panko bread crumbs, making it easy enough for a weeknight dinner.",
+          "rating": 0,
+          "haveTried": "yes"
+        },
+        {
+          "title": "Ricotta Gnudi",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/gnudi-recipe-1662568881.jpg?crop=0.448xw:1.00xh;0.193xw,0&resize=980:*",
+          "description": "Making gnudi, or Italian ricotta dumplings, only sounds fancy. They're actually an easy pasta dinner anyone can pull off. If you love gnocchi as much as we do, you'll likely love these too. The only real difference? Gnocchi is made with potato and gnudi is made with ricotta, which makes them even more tender, light, and plump.",
+          "rating": 5,
+          "haveTried": "yes"
+        },
+        {
+            "title": "Burrata Salad",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/burrata-salad3-1662414258.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "description": "Peak-summer tomatoes are topped with this luscious cheese (think: a shell of mozzarella filled with a soft, creamy filling) and garnished with a shower of peppery basil leaves and savory chives.",
+            "rating": 4,
+            "haveTried": "no"
+        },
+        {
+            "title": "Cacio e Pepe",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/delish-cacio-e-pepe-vertical-1662413601.jpg?crop=1xw:0.9972862957937585xh;center,top&resize=980:*",
+            "description": "Cacio e pepe literally translates to “cheese and pepper.",
+            "rating": 5,
+            "haveTried": "yes"
+        }
+    ] 
+}
